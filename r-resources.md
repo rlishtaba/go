@@ -5,17 +5,20 @@ _[Note: The core of The Open Source Data Science Masters focuses on programmatic
 [The R Project for Statistical Computing / Software](http://www.r-project.org/)
 
 #### Basic R
-
+ 
  * R in a Nutshell [O'Reilly / Book ```$41```](http://amzn.to/1s54OBf)
  * Software Design: The Art of R Programming [O'Reilly / Book ```$23```](http://amzn.to/1mqzpWw)
+ * R Cheat Sheets [Hadley Wickham](http://had.co.nz/stat480/r/)
 
 #### Basic Statistics with R
 
  * An Introduction to Statistical Learning [Book pdf](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf) ^also a Machine Learning resource
+ * Data Analysis and Graphics Using R: An Example-Based Approach [Amazon / Book ```$66```](http://www.amazon.com/Data-Analysis-Graphics-Using-Example-Based/dp/0521762936)
  
 #### Data Science with R
  * Introduction to Data Science [Syracuse University / ebook](http://jsresearch.net/index.html)
  * Learn R & Become a Data Analyst [Tutorial](https://www.datacamp.com/)
+ * Engineering Data Analysis with R and ggplot2 [Google Tech Talk / video](https://www.youtube.com/watch?v=TaxJwC_MP9Q)
  
 #### Statistical Learning with R
 
@@ -34,7 +37,7 @@ _[Note: The core of The Open Source Data Science Masters focuses on programmatic
  * Guide to Getting Started in Machine Learning [Tutorial](http://abeautifulwww.com/2009/10/11/guide-to-getting-started-in-machine-learning/)
  * Machine Learning in R [Tutorial](http://blog.revolutionanalytics.com/2009/09/machine-learning-in-r-in-a-nutshell.html)
 
-#### R Libraries
+#### R Packages
 
  * Natural Language Toolkit [OpenNLP](http://cran.r-project.org/web/packages/openNLP/index.html)
  * Text Mining [tm](http://cran.r-project.org/web/packages/tm/index.html)
@@ -44,3 +47,6 @@ _[Note: The core of The Open Source Data Science Masters focuses on programmatic
  * Kernel Method [kernlab](http://cran.r-project.org/web/packages/kernlab/index.html)
  * Chinese Language Processing [Rwordseg](http://jliblog.com/app/rwordseg)
  * Chinese Weibo Analysis [Rweibo](http://jliblog.com/app/rweibo)
+ * Data Munging [plyr](http://cran.r-project.org/web/packages/plyr/index.html)
+ * Data Munging [reshape](http://had.co.nz/reshape/)
+ * Data Viz Toolkit [ggplot2](http://cran.r-project.org/web/packages/ggplot2/index.html)
